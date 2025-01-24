@@ -33,7 +33,7 @@ Explore each document to understand the vision, architecture, and functionalitie
 
 Explore the user-friendly interface of RideSharingHC!
 
-<img src="ridesharingdemo.png" alt="Data Flow Diagram" width="700">
+<img src="ridesharingdemo.png" alt="Data Flow Diagram" width="900">
 
 ---
 
