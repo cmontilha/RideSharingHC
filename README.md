@@ -29,6 +29,14 @@ Explore each document to understand the vision, architecture, and functionalitie
 
 ---
 
+## 📱 App Interface Overview
+
+Explore the user-friendly interface of RideSharingHC!
+
+![App Interface Overview](ridesharingdemo.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Firebase** for Authentication, Firestore, and Storage
