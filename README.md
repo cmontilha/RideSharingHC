@@ -1,6 +1,4 @@
-# HC25-Caio-Montilha-Senior-Project
-
-🚗 **RideSharingHC** - A Ride-Sharing Platform for College Students
+# 🚗 **RideSharingHC** - A Ride-Sharing Platform for College Students
 
 Welcome to the RideSharingHC project repository! This app is an innovative solution aimed at providing a secure and user-friendly platform for ride-sharing within the college community. The focus is on fostering a safe environment with verification processes and easy communication between users.
 
